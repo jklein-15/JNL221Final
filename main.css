@@ -1,0 +1,63 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    color: #222;
+
+.site-header {
+    background-color: #0f1a41;
+    color: #ffffff;
+    padding: 50px 25px;
+    text-align: center;
+}
+
+.site-header {
+	max-width: 800px;
+    margin: 0 auto 8px;
+    font-size: 25px;
+}
+
+.byline {
+    font-size: 25px;
+    font-weight: bold;
+
+}
+
+.bigstory {
+    max-width: 800px;
+    margin: 0 auto;
+    background-color: #f4f4f4;
+}
+
+.story p {
+    font-size: 16px;
+    margin-bottom: 20px;
+}
+
+.visual {
+    margin: 48px 0;
+    padding: 40px 24px;
+    border-top: 1px solid #cccccc;
+    border-bottom: 1px solid #cccccc;
+    background-color: #f4f4f4;
+}
+
+.image {
+    max-width: 800px;
+    margin: 32px auto;
+    text-align: center;
+}
+
+.article-image {
+    max-width: 800px;
+    height: auto;
+}
+
+.image-caption {
+    max-width: 800px;
+    margin: 8px auto;
+    font-size: 14px;
+    color: #55555;
+    text-align: center;
+}
+}
